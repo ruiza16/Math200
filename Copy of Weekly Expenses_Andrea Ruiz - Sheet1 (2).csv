@@ -1,0 +1,14 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment,Need/Want/Saving
+1/26/24,Friday,2.50,coffee,Food,Cash,Want
+1/26/24,Friday,37.90,book,Entertainment and Recreation,Credit,Want
+1/26/24,Friday,10.90,food,Food,Debit,Need
+1/29/24,Monday,3.75,coffee,Food,Cash,Want
+1/30/24,Tuesday,20,parking,Travel,Debit,Need
+1/31/24,Wednesday,25,gas,Travel,Credit,Need
+2/1/24,Thursday,20 ,parking,Travel,Debit,Need
+2/1/24,Thursday,14.26,food,Food,Debit,Want
+2/1/24,Thursday,455,savings acc,Financial goals and Savings,Credit,Savings
+2/2/24,Friday,55,credit payment ,Bills,Debit,Need
+2/2/24,Friday,32.84,food,Food,Debit,Want
+2/3/24,Saturday,17.18,drinks,Food,Debit,Want
+2/4/24,Sunday,12.99,subscription  ,Entertainment and Recreation,Debit,Want
